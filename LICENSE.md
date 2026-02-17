@@ -1,6 +1,6 @@
 # Licencia de MULTI FX
 
-**Copyright (c) 2026 Daniela Lozano y Eduardo SantaFé** - Todos los derechos reservados.
+**Copyright © 2026 Daniela Lozano y Eduardo SantaFé** - Todos los derechos reservados.
 
 Esta licencia establece los términos bajo los cuales se puede usar, copiar, modificar y distribuir este software ("MULTI FX").
 
@@ -26,7 +26,9 @@ El uso de MULTI FX está permitido para:
 ## 4. Excepciones
 
 Si deseas utilizar MULTI FX para cualquier propósito comercial no contemplado en esta licencia, deberás contactar para obtener un permiso por escrito a: 
+
 1-. Daniela Lozano en dlozanocaldera@gmail.com / +584124657705 o +584264042063
+
 2-. Eduardo SantaFé en eduardosantafe2001@gmail.com / +584241919558
 
 ## 5. Exención de Responsabilidades (Disclaimer)
